@@ -2,7 +2,7 @@
 
 Introdução
 
-O objetivo do teste é poder simular, mesmo que de forma assíncrona, algumas das diversas tarefas que um Product Owner (&quot;PO&quot;) da brainnrealizará no seu dia-a-dia. Com essa avaliação, saberemos quais são os gaps de skills do candidato e como poderemos planejar seu o desenvolvimento nos primeiros meses de trabalho conosco.
+O objetivo do teste é poder simular, mesmo que de forma assíncrona, algumas das diversas tarefas que um Product Owner (&quot;PO&quot;) da brainn realizará no seu dia-a-dia. Com essa avaliação, saberemos quais são os gaps de skills do candidato e como poderemos planejar seu o desenvolvimento nos primeiros meses de trabalho conosco.
 
 Listamos a seguir quais são as responsabilidades e as ferramentas com as quais esperamos que um bom PO consiga lidar no seu cotidiano de trabalho. Depois de feita essa introdução, explicamos o Challenge que deverá ser realizado no prazo de uma semana e apresentado por meio de uma call com o(s) sócio(s) da **brainn**. Utilize as ferramentas da sua preferência.
 
