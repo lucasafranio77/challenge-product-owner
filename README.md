@@ -12,8 +12,9 @@ Listamos a seguir quais são as responsabilidades e as ferramentas com as quais 
 
 **Organização contínua dos Backlogs** : o desenvolvimento de um produto digital exige muito cuidado com a organização do que precisa ser feito por todos os Stakeholders, sendo muito fácil os membros da equipe esquecerem detalhes que foram discutidos durante dinâmicas, pesquisas, etc. Para facilitar o seu próprio trabalho e para criar um entendimento mais fácil do direcionamento estratégico do produto, o PO deve garantir a qualidade de dois backlogs paralelos e de forma contínua: (a) **Backlog do Produto** , que é o conjunto de **Épicos** e **Estórias** de cada **Release** planejada do produto, mesmo que ainda sem um detalhamento minucioso, e (b) **Backlog da Sprint**, que nada mais é que o resultado do processo de refinamento e entendimento do time sobre as Estórias que serão desenvolvidas na respectiva sprint, quebrando-as em  **Tarefas** (&quot;Tasks&quot;) e **Sub-Tarefas** (&quot;Sub-Tasks&quot;). Portanto, para facilitar o entendimento, o breakdown é o seguinte:
 
-** - Backlog do Produto**: detalhamento de Épicos, Estórias e as suas Releases.
-** - Backlog da Sprint**: detalhamento das Estórias de uma determinada Sprint, quebradas Tarefas e Sub-Tarefas, se necessário.
+**- Backlog do Produto**: detalhamento de Épicos, Estórias e as suas Releases.
+
+**- Backlog da Sprint**: detalhamento das Estórias de uma determinada Sprint, quebradas Tarefas e Sub-Tarefas, se necessário.
 
 Obs.: pela literatura, as Tarefas e Sub-Tarefas devem ter um tamanho que permita a sua estimativa em prazos menores individualmente, como por ex. &quot;meio dia&quot;, &quot;x horas&quot; e assim por diante; caso contrário, será difícil realizar uma estimativa com um grau de assertividade satisfatório. Também é importante notar que cada equipe tem um ritmo próprio, sendo diversas as métricas de produtividade passíveis de utilização dentro da metodologia do Scrum.
 
