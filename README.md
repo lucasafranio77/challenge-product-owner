@@ -1,12 +1,12 @@
 # Teste para Product Owner
 
-Introdução
+## Introdução
 
 O objetivo do teste é poder simular, mesmo que de forma assíncrona, algumas das diversas tarefas que um Product Owner (&quot;PO&quot;) da brainn realizará no seu dia-a-dia. Com essa avaliação, saberemos quais são os gaps de skills do candidato e como poderemos planejar seu o desenvolvimento nos primeiros meses de trabalho conosco.
 
 Listamos a seguir quais são as responsabilidades e as ferramentas com as quais esperamos que um bom PO consiga lidar no seu cotidiano de trabalho. Depois de feita essa introdução, explicamos o Challenge que deverá ser realizado no prazo de uma semana e apresentado por meio de uma call com o(s) sócio(s) da **brainn**. Utilize as ferramentas da sua preferência.
 
-Responsabilidades de um PO
+## Responsabilidades de um PO
 
 **Conduzir dinâmicas de User Story Mapping (&quot;USM&quot;)**: tanto durante a fase inicial (i.e., product concept) como durante o desenvolvimento do produto utilizando a metodologia Agile (i.e., product making), o PO é o responsável principal por conduzir dinâmicas para alcançar o entendimento compartilhado sobre o produto no qual está trabalhando. Dessa forma, haverá clareza sobre quais são os **objetivos** a serem alcançados e as **prioridades** do desenvolvimento que deverá ser realizado pelo time de design e engenharia entre todos os Stakeholders do projeto (i.e., sponsors do produto, equipe do cliente e o próprio squad montado para o projeto). Uma metodologia consagrada de USM pode ser encontrada no livro _User Story Mapping_, escrito por Jeff Patton, disponível na biblioteca física e virtual da brainn. Não existe somente uma maneira de realizar USM, sendo que cada PO desenvolverá o seu próprio estilo de aplicação da metodologia de USM.
 
@@ -55,7 +55,7 @@ Um PO deve ser um tech-savvy extremamente curioso sobre produtos digitais que se
 
 **X-Mind:** a habilidade de organizar conceitos e ideias rapidamente é essencial para um PO, de forma que ele é o “zelador” dos projetos em que atua. O X-Mind ajuda exatamente na tarefa prévia de organizar ideias por meio de mapas mentais, sendo que existem diversos outros aplicativos alternativos com o mesmo propósito e que podem ser utilizados de forma alternativa. O importante é conseguir rapidamente criar uma arquitetura de ideias e depois utilizar essa informação em dinâmicas, reuniões ou documentos a serem elaborados para os Stakeholders.
 
-**Challenge**
+## **Challenge**
 
 Com a introdução realizada por meio das seções anteriores, elaboramos um Challenge para um candidato a PO realizar no seu tempo livre. Não nos importaremos com as ferramentas que serão utilizadas, mas sim com o resultado final: clareza na organização e na exposição das ideias para o(s) avaliador(es) final(is) entender(em) como você pensa e toma decisões em relação a produtos em um ambiente de incertezas.
 
