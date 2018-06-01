@@ -54,7 +54,7 @@ Um PO deve ser um tech-savvy extremamente curioso sobre produtos digitais que se
 
 **12. Zoom:** mais uma ferramenta de comunicação, substituindo o Skype há algum tempo na **brainn**, pois incorpora funcionalidades muito mais desenvolvidas para reuniões virtuais entre os stakeholders, como p. ex. a gravação de calls, desenho em tela, demonstração da tela do mobile, etc.
 
-**X-Mind:** a habilidade de organizar conceitos e ideias rapidamente é essencial para um PO, de forma que ele é o “zelador” dos projetos em que atua. O X-Mind ajuda exatamente na tarefa prévia de organizar ideias por meio de mapas mentais, sendo que existem diversos outros aplicativos alternativos com o mesmo propósito e que podem ser utilizados de forma alternativa. O importante é conseguir rapidamente criar uma arquitetura de ideias e depois utilizar essa informação em dinâmicas, reuniões ou documentos a serem elaborados para os Stakeholders.
+**13. X-Mind:** a habilidade de organizar conceitos e ideias rapidamente é essencial para um PO, de forma que ele é o “zelador” dos projetos em que atua. O X-Mind ajuda exatamente na tarefa prévia de organizar ideias por meio de mapas mentais, sendo que existem diversos outros aplicativos alternativos com o mesmo propósito e que podem ser utilizados de forma alternativa. O importante é conseguir rapidamente criar uma arquitetura de ideias e depois utilizar essa informação em dinâmicas, reuniões ou documentos a serem elaborados para os Stakeholders.
 
 ## **Challenge**
 
